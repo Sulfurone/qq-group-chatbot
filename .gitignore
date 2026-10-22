@@ -2,8 +2,11 @@ node_modules/
 data/
 runtime/
 *.log
+
+# Local credentials, generated state, screenshots and diagnostics
 .env
 .env.*
+!.env.example
 *.pid
 *.tmp
 *.png

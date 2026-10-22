@@ -1,0 +1,2 @@
+minimumReleaseAgeExclude:
+  - '@tencent-ai/codebuddy-code@2.171.0'
